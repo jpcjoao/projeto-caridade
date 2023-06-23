@@ -102,7 +102,7 @@ nav > div {
 
 /* Slideshow container */
 .slide {
-  max-width: 320px;
+  width: 100%;
   position: relative;
   margin: auto;
   background-color: rgb(71, 71, 71);
