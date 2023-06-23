@@ -60,6 +60,7 @@ div.img {
     background-image: url(bg7.jpg);
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 div.bem-vindo {
